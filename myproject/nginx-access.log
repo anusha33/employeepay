@@ -1,0 +1,5 @@
+66.249.64.65 - - [15/Nov/2015:04:38:51 +0000] "GET /robots.txt HTTP/1.1" 404 151 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.64.70 - - [15/Nov/2015:04:38:51 +0000] "GET /3-yabanc%C4%B1-arkada%C5%9Fl%C4%B1k-sitesi-hangisi.html HTTP/1.1" 404 151 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+123.59.87.241 - - [15/Nov/2015:04:50:31 +0000] "GET / HTTP/1.1" 200 612 "-" "-"
+123.59.87.241 - - [15/Nov/2015:04:50:37 +0000] "GET / HTTP/1.1" 200 612 "-" "-"
+66.249.93.229 - - [15/Nov/2015:04:50:59 +0000] "GET /izmir-turkiyesohbet-net-sohbet.html HTTP/1.1" 404 208 "-" "Mozilla/5.0 (en-us) AppleWebKit/534.14 (KHTML, like Gecko; Google Wireless Transcoder) Chrome/9.0.597 Safari/534.14"
